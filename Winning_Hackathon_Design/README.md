@@ -1,1 +1,1 @@
-Folder contains code for the SAVIOR robot that won UNT Dallas Hackathon State Farm Challenge. For more information contact jpheimerl@gmail.com
+Folder contains code for the SAVIOR robot that won UNT Dallas Hackathon State Farm Challenge. For more information contact jpheimerl@gmail.com. Note the sound sensor file is more than just a sound sensor, it's a sensor package used to reconstruct a heat map that details possible survivor locations in a natural disaster.
